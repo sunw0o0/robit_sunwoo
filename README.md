@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+#######영화진흥위원회 역대 흥행 TOP 5 분석 프로그램
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+###1. 사용 라이브러리
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+urllib3            2.7.0
+requests           2.34.2
